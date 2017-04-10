@@ -28,10 +28,10 @@ test:
 
 production:
   adapter: postgresql
-  database: demo_live
-  username: rcunanan
-  password: 'root'
+  database: d9i2a0qvsd2gq5
+  username: bgibtnpcatspxz
+  password: '326e06c5a892d487ce22c9fb70ae5407f04a75399cfd0329bbc5aac92679f30c'
   pool: 5
   timeout: 5000
-  host: localhost
+  host: ec2-23-23-244-83.compute-1.amazonaws.com
   port: 5432
